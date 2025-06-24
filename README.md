@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **Computer Vission**
 
-- 👨‍💻 All of my projects are available at [https://uzumaki106.github.io/Portfolio/](https://uzumaki106.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio/](https://uzumaki106.github.io/Portfolio/)
 
 - 📫 How to reach me **bhavesh.srivastava101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BCgH9egAiIlf1ca2A7_cdns3BHD0ueBk/view?usp=sharing](https://drive.google.com/file/d/1BCgH9egAiIlf1ca2A7_cdns3BHD0ueBk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BCgH9egAiIlf1ca2A7_cdns3BHD0ueBk/view?usp=sharing)
 
 - ⚡ Fun fact **I like making anime sketches**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/bhaveshsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bhaveshsrivastava" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhaveshsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhaveshsrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
