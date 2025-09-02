@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **Computer Vission**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://uzumaki106.github.io/Portfolio/)
-
+- 👨‍💻 
 - 📫 How to reach me **bhavesh.srivastava101@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BCgH9egAiIlf1ca2A7_cdns3BHD0ueBk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MrXmbynzOlN1VKBKS97G3b2nLwcOH4eg/view?usp=drivesdk)
 
 - ⚡ Fun fact **I like making anime sketches**
 
