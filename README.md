@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Computer Vission**
 
-- 👨‍💻 
 - 📫 How to reach me **bhavesh.srivastava101@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MrXmbynzOlN1VKBKS97G3b2nLwcOH4eg/view?usp=drivesdk)
